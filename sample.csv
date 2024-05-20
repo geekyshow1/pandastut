@@ -1,0 +1,11 @@
+name,age,city
+Sonam,28.0,bokaro
+Raj,24.0,ranchi
+Rohit,35.0,dhanbad
+Rani,32.0,deoghar
+Sonam,28.0,ranchi
+Raj,24.0,bokaro
+Rohit,,dhanbad
+Rani,32.0,deoghar
+Sonam,28.0,ranchi
+Raj,24.0,ranchi
